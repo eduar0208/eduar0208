@@ -1,4 +1,4 @@
-Hi 👋🏻, I'm Daniel Españadero
+Hi 👋🏻, I'm Eduardo Guzman
 A passionate web developer from Barcelona (Spain)
 👨‍💻 All of my projects are available at https://daniel-espanadero.com/ (I need to catch up and update)
 
@@ -28,4 +28,5 @@ IntelliJ	Visual Studio Code	npm	Git	Webpack	Babel
 🤯 Sometimes I find it hard to take a break.
 👕 I'm not good at dressing like an adult.
 😇 Sorry, what was your name?
-![sprint](https://github.com/eduar0208/eduar0208/assets/98606639/a6f9d6e0-62a6-476c-8acb-a1fb64081e28)
+
+![Uploading sprint1.png…]()
