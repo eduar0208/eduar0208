@@ -29,4 +29,5 @@ IntelliJ	Visual Studio Code	npm	Git	Webpack	Babel
 👕 I'm not good at dressing like an adult.
 😇 Sorry, what was your name?
 
-![Uploading sprint1.png…]()
+
+![Uploading sprint1.jpg…]()
