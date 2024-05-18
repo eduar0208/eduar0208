@@ -16,7 +16,8 @@ Java	JavaScript	TypeScript	HTML	CSS
 💾 Databases
 MongoDB	MySQL
 🖼️ Frameworks & libraries
-spring 	![sprint1](https://github.com/eduar0208/eduar0208/assets/98606639/7e7bab82-3227-4d13-a742-f9a2c5e10c3f)
+spring 	![sprint1](https://github.com/eduar0208/eduar0208/assets/98606639/708e441c-3c41-42a3-9185-6d8cbf42ae7f)
+
 Node.js	Express	React	Angular	Jest
 🔧 Tools
 IntelliJ	Visual Studio Code	npm	Git	Webpack	Babel
