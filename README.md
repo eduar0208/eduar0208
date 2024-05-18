@@ -1,33 +1,16 @@
-Hi 👋🏻, I'm Eduardo Guzman
-A passionate web developer from Barcelona (Spain)
-👨‍💻 All of my projects are available at https://daniel-espanadero.com/ (I need to catch up and update)
-
-💬 Ask me about HTML, CSS, JavaScript, Node.js...
-
-📫 How to reach me developer@daniel-espanadero.com
-
-Connect with me:
-d_espanadero https://www.linkedin.com/in/daniel-espa%c3%b1adero-fern%c3%a1ndez-430266175/ https://www.instagram.com/danielespanadero/ https://www.youtube.com/channel/ucytsoy4tww6e-ooipap275g
+# 💫 About Me:
+holq
 
 
-⚡ Technologies
-💬 Languages
-Java	JavaScript	TypeScript	HTML	CSS
-💾 Databases
-MongoDB	MySQL
-🖼️ Frameworks & libraries
-spring 	![sprint1](https://github.com/eduar0208/eduar0208/assets/98606639/708e441c-3c41-42a3-9185-6d8cbf42ae7f)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=eduar0208&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=eduar0208&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduar0208&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Node.js	Express	React	Angular	Jest
-🔧 Tools
-IntelliJ	Visual Studio Code	npm	Git	Webpack	Babel
-💪 My strengths
-❓ I try to learn something new every day.
-👥 I try to bring out the best in people.
-✅ Validation nerd.
+---
+[![](https://visitcount.itsvg.in/api?id=eduar0208&icon=0&color=0)](https://visitcount.itsvg.in)
 
-😅 My flaws
-🤯 Sometimes I find it hard to take a break.
-👕 I'm not good at dressing like an adult.
-😇 Sorry, what was your name?
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
