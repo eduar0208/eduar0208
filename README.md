@@ -30,4 +30,5 @@ IntelliJ	Visual Studio Code	npm	Git	Webpack	Babel
 😇 Sorry, what was your name?
 
 
-![Uploading sprint1.jpg…]()
+
+![sprint1](https://github.com/eduar0208/eduar0208/assets/98606639/a74169a7-1726-40cb-ae26-bd668790f8bc)
