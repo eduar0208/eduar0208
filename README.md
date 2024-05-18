@@ -16,7 +16,7 @@ Java	JavaScript	TypeScript	HTML	CSS
 💾 Databases
 MongoDB	MySQL
 🖼️ Frameworks & libraries
-spring	Node.js	Express	React	Angular	Jest
+spring ![sprint1](https://github.com/eduar0208/eduar0208/assets/98606639/a74169a7-1726-40cb-ae26-bd668790f8bc)	Node.js	Express	React	Angular	Jest
 🔧 Tools
 IntelliJ	Visual Studio Code	npm	Git	Webpack	Babel
 💪 My strengths
@@ -29,6 +29,3 @@ IntelliJ	Visual Studio Code	npm	Git	Webpack	Babel
 👕 I'm not good at dressing like an adult.
 😇 Sorry, what was your name?
 
-
-
-![sprint1](https://github.com/eduar0208/eduar0208/assets/98606639/a74169a7-1726-40cb-ae26-bd668790f8bc)
